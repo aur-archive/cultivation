@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Cultivation
+Comment=A social simulation game by Jason Rohrer
+Exec=cultivation
+Icon=cultivation.png
+Terminal=false
+Categories=Game;Simulation;
